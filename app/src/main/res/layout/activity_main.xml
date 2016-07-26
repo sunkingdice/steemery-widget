@@ -12,5 +12,5 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Kindly drg and drop Widget App's widget on your home screen " />
+        android:text="Drag and drop Widget App's widget on your home screen " />
 </RelativeLayout>
