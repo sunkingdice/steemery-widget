@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="180dp"
+    android:layout_height="50dp"
+    android:minWidth="180dp"
+    android:minHeight="40dp"
+    >
+
+    <TextView
+        android:layout_width="210dp"
+        android:layout_height="50dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Loading..."
+        android:textColor="#777777"
+        android:padding="10dp"
+        android:background="@drawable/back"
+        android:id="@+id/textView"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
